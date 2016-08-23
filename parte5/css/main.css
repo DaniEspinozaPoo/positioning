@@ -1,0 +1,47 @@
+
+.caja{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.roja{
+      background-color:#ee3e64;
+      margin-left: 0;
+      margin-top: 0;
+      margin-right:800px; 
+      margin-bottom:500px;
+
+}
+
+.azul{
+      background-color:#44accf;
+      margin-left:800px;
+      margin-top: 0;
+      margin-right:0; 
+      margin-bottom:500px;
+
+
+}
+
+.verde{
+      background-color:#b7d84b;
+      margin-left:0;
+      margin-top: 500px;
+      margin-right:800px; 
+      margin-bottom:0;
+
+}
+
+.amarilla{
+	background-color:#FFFF0A;
+	margin-left:800px;
+      margin-top: 500px;
+      margin-right:0; 
+      margin-bottom:0;
+}/* Pon tu código css aqui */
