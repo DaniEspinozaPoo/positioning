@@ -17,7 +17,8 @@ body {
 
 .azul{
       background-color:#44accf;
-      margin-left: 200px
+      position: relative;
+      left: 200px;
 
 }
 

@@ -1,9 +1,6 @@
 .caja{
 	height: 200px;
 	width: 200px;
-	position: 
-	
-
 }
 body {
 	margin: 0;
@@ -17,8 +14,8 @@ body {
 
 .azul{
       background-color:#44accf;
-      margin-left: 200px;
       position: absolute;
+      left: 200px;
 
 }
 
